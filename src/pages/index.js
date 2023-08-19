@@ -37,7 +37,7 @@ export default function Home() {
                   Currently, I&apos;m working as a Blockchain Engineer at <a href='https://www.wega.fun' className='text-red-400'>Wega</a>, where we&apos;re creating an NFT-betting game to let people play games using NFTs.
                 </p>
                 <div className='flex flex-row items-center justify-center md:justify-start w-full p-2 mt-5 gap-10'>
-                  <a href="https://twitter.com/Herobri82355092">
+                  <a href="https://twitter.com/_ishankumar_">
                     <BsTwitter className='h-10 w-10 text-neutral-500 cursor-pointer hover:scale-125 hover:text-sky-600 duration-300' />
                   </a>
                   <a href="https://www.linkedin.com/in/ishan-k-463a07205/">
